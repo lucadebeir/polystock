@@ -1,0 +1,56 @@
+body{
+    background-color: #eeeeee;
+}
+
+/* couleur des types dans rechercher*/
+.dropdown-content li > a, .dropdown-content li > span{
+    color: #28A9B7;
+}
+
+.modal-footer button{
+    background-color: #28A9B7;
+}
+
+.modal-footer button:hover{
+    background-color: #28A9B7;
+}
+
+.chips:hover, chips:focus{
+    border-bottom: 1px solid;
+    border-color: #28A9B7;
+    box-shadow: 0 1px 0 0 #28A9B7;
+}
+
+#nav-mobile li > a{
+    color: #464FAB;
+}
+.side-nav li > a{
+    color: #464FAB;
+}
+
+.btn:hover{
+    background-color: #28A9B7;
+}
+
+.btn{
+    background-color: #28A9B7;
+}
+
+.tabs .tab a{
+    color: #28A9B7;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active{
+    color: #28A9B7;
+}
+
+.tabs .indicator{
+    background-color: #28A9B7;
+}
+
+h1{
+    color: #464FAB;
+    text-align: center;
+}
+
+

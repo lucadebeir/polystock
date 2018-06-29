@@ -1,0 +1,137 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+button a
+{
+	color:white;
+}
+canvas
+{
+	margin:auto;
+}
+footer {
+	flex: 1 0 auto;
+	margin-top:80%;
+}
+nav {
+	background-color: #a4c5f9;
+}
+footer.page-footer {
+	background-color: #a4c5f9;
+	padding-bottom: 0;
+}
+.rowSpe {
+	margin-left: 0px;
+    margin-right: 0px;
+	margin-top:30px;
+}
+i.amazing {
+	font-size:90px;
+	padding:20px;
+}
+
+.button2 {
+	transition:0.7s;
+	color:#26a69a;
+	padding-left:10px;
+	padding-right:10px
+}
+.button2:hover {
+	transition:0.7s;
+	background-color:#26a69a;
+	border-radius:4px;
+	color:white;
+	box-shadow: 2px 2px 7px grey;
+}
+nav ul a {
+	font-size: 1.0em;
+}
+
+.logosite{
+	font-size:150%;
+	left:1.8rem;
+}
+
+td.descr{
+	font-size: 10px;
+}
+
+div.general-container{
+	margin-top:10%;
+	margin-bottom:10%;
+}
+
+.oblig{
+	color: red;
+}
+
+input[type="text"]{
+	/*background-color:#ffffff;*/
+}
+
+img.annpic{
+	weight:50px;
+	height:50px;
+}
+
+img.left-photo{
+	float:left;
+	margin-top:5%;
+	width:350px;
+	height:auto;
+}
+
+.ann-caract{
+	margin-left:50%;
+	margin-top:15%;
+}
+
+.ann-descrip{
+	margin-top:2%;
+}
+
+.greyperso{
+	background-color:#1d2c47;
+}
+
+footer.greyperso{
+	background-color:#162135;
+}
+
+.command{
+	margin-top:10%;
+	margin-left:50%;
+}
+
+
+#evenement{
+	margin-left:10%;
+	margin-top:5%;
+	width: 80%;
+}
+
+#produit{
+	margin-left:10%;
+	margin-top:10%;
+	margin-bottom:10%;
+	width: 80%;
+}
+
+#anntab{
+	margin-left:10%;
+	margin-top:10%;
+	width:80%;
+}
+
+#usertab{
+	margin-left:10%;
+	margin-top:10%;
+	margin-bottom:10%;
+	width:80%;
+}
+
+p.help{
+	font-size:10px;
+}
